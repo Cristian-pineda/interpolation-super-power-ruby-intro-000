@@ -7,4 +7,3 @@ def display_rainbow(color_order)
  end
 
 puts display_rainbow(colors)
-
